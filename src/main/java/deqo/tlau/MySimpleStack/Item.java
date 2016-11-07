@@ -11,7 +11,7 @@ public class Item{
     }
 
     /**
-     * j'ai modifié ca
+     * Un commentaire répondant a l'exigence #1
      * @return
      */
 
