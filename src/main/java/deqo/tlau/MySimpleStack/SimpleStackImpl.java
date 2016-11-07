@@ -8,6 +8,8 @@ import java.util.Stack;
 
 /**
  * Created by 21205213 on 04/11/2016.
+ *
+ * Un commentaire répondant à l'exigeance #3
  */
 public class SimpleStackImpl implements SimpleStack {
 
